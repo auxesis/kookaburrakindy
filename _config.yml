@@ -1,0 +1,10 @@
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - LICENSE
