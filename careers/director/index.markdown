@@ -1,5 +1,6 @@
 ---
 title: Teacher/Director job description
+description: We are looking for a Teacher/Director with strong leadership skills, a passion for early childhood education, and eagerness to become part of the community.
 ---
 
 # Teacher/Director at Kookaburra Kindy
