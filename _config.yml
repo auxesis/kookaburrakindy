@@ -8,3 +8,4 @@ exclude:
   - vendor
   - README.md
   - LICENSE
+logo: /img/logo.png
