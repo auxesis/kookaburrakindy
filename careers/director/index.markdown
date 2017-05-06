@@ -1,5 +1,5 @@
 ---
-title: Teacher/Director job description
+title: Teacher/Director at Blackheath Kookaburra Kindy
 description: We are looking for a Teacher/Director with strong leadership skills, a passion for early childhood education, and eagerness to become part of the community.
 ---
 
