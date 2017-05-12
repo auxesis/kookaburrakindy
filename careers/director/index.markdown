@@ -60,3 +60,5 @@ For more information you can email careers@kookaburrakindy.nsw.edu.au
     Apply for the position
   </button>
 </a>
+
+[&larr; Find more jobs at Kookaburra Kindy]({{ site.url}}/careers/)
