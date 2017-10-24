@@ -26,7 +26,7 @@ Blackheath boasts affordable housing, all four seasons (including snow in winter
   </button>
 </a>
 
-## Main aims of the position
+## Aims of the position
 
 - Fulfill the obligations to the Registered Training organisation to complete the set tasks and assignments on time.
 - Engage in workplace training.
