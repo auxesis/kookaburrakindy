@@ -5,7 +5,4 @@ description: Kookaburra Kindy is a happy, supportive environment. Come work at K
 
 # Current openings
 
-## [Teacher/Director]({{ site.url }}/careers/director/)
-## [Diploma Qualified Educator]({{ site.url }}/careers/diploma-qualified-educator/)
-## [Teacher]({{ site.url }}/careers/teacher/)
-
+## [Trainee Educator]({{ site.url }}/careers/trainee-educator/)
