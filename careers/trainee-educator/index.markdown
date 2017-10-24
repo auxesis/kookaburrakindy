@@ -85,7 +85,7 @@ Kookaburra Kindy values diversity and actively seeks and supports talent from a 
 
 For more information you can email careers@kookaburrakindy.nsw.edu.au
 
-<a href="{{ site.url }}/careers/traineer-educator/application/">
+<a href="{{ site.url }}/careers/trainee-educator/application/">
   <button class="btn btn-primary btn-lg">
     <i class="fa fa-fw fa-bolt" aria-hidden="true"></i>
     Apply for the position
