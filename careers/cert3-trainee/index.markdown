@@ -1,11 +1,11 @@
 ---
-title: Trainee Educator at Blackheath Kookaburra Kindy
+title: Cert III Trainee at Blackheath Kookaburra Kindy
 description: We are looking for a Teacher/Director with strong leadership skills, a passion for early childhood education, and eagerness to become part of the community.
 ---
 
-# Trainee Educator at Kookaburra Kindy
+# Cert III Trainee at Kookaburra Kindy
 
-We are looking for a trainee educator for a full time position.
+We are looking for a Cert III Trainee for a full time position.
 
 ## About Kookaburra Kindy
 
@@ -85,7 +85,7 @@ Kookaburra Kindy values diversity and actively seeks and supports talent from a 
 
 For more information you can email careers@kookaburrakindy.nsw.edu.au
 
-<a href="{{ site.url }}/careers/trainee-educator/application/">
+<a href="{{ site.url }}/careers/cert3-trainee/application/">
   <button class="btn btn-primary btn-lg">
     <i class="fa fa-fw fa-bolt" aria-hidden="true"></i>
     Apply for the position
