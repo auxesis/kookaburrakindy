@@ -79,7 +79,7 @@ Administrative responsibilities:
 - Maintain WH&amp;S legislation by signing in and out register when entering and leaving premises
 - Be on the premises to begin each shift on time.
 
-**Applications close November 24th 2017.**
+**Applications close February 4th 2018.**
 
 Kookaburra Kindy values diversity and actively seeks and supports talent from a wide variety of backgrounds.
 
